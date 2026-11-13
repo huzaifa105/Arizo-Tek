@@ -1,0 +1,6 @@
+{
+  "name": "ArizoTek",
+  "description": "IT Automation for Small to Mid-Size Businesses — Intelligent AI automation, business process automation, AI chatbots, and workflow integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
